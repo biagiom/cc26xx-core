@@ -1,0 +1,17 @@
+##############################################################
+menu.cpu=Processor
+
+CC2650STK.vid.0=0x2341
+CC2650STK.pid.0=0xbef3
+CC2650STK.name=SensorTag w/ cc2650 EMT (48MHz)
+CC2650STK.build.mcu=cortex-m3
+CC2650STK.build.f_cpu=48000000L
+CC2650STK.build.core=cc26xx
+CC2650STK.build.variant=CC2650STK
+CC2650STK.build.board=CC2650STK
+CC2650STK.build.ldscript=linker.cmd
+CC2650STK.upload.tool=dslite
+CC2650STK.upload.protocol=dslite
+CC2650STK.upload.maximum_size=262144
+CC2650STK.upload.maximum_ram_size=20480
+
