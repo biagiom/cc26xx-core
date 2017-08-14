@@ -1,0 +1,4 @@
+# Package tarball generated with extra/pack-release.sh script
+*.tar
+*.tar.xz
+*.tar.bz2
