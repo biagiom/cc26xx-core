@@ -1,7 +1,7 @@
 ##############################################################
 menu.cpu=Processor
 
-CC2650STK.vid.0=0x2341
+CC2650STK.vid.0=0x0451
 CC2650STK.pid.0=0xbef3
 CC2650STK.name=SensorTag w/ cc2650 EMT (48MHz)
 CC2650STK.build.mcu=cortex-m3
